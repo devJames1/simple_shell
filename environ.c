@@ -54,7 +54,7 @@ void free_env(void)
 }
 
 /**
- * _getenv - Gets an environmental variable from the PATH.
+ * _getenv - Gets an environmental variable from the PATH..
  * @var: The name of the environmental variable to get from PATH.
  *
  * Return: If the environmental variable does not exist - NULL.
