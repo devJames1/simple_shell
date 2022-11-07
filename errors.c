@@ -76,7 +76,7 @@ char *_itoa(int num)
  * @args: An array of arguments passed to the function.
  * @err: The error value.
  *
- * Return: The error value.
+ * Return: The error value..
  */
 int create_error(char **args, int err)
 {
